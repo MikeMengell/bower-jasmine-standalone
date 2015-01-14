@@ -2,8 +2,6 @@
   "name": "mm-jasmine-components", 
   "description": "http://jasmine.github.io/", 
   "version": "2.1.3", 
-  "main": [ 
-    "lib/jasmine-2.1.3/jasmine.js" 
-  ],
+  "main": "lib/jasmine-2.1.3/jasmine.js",
   "ignore": {}
 } 
